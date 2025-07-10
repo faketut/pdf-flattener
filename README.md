@@ -1,4 +1,4 @@
-# PDF Flattener VS Code Extension
+# PDF Flattener: Flatten interactive PDFs in a click—clean, static, and ready to share
 
 A VS Code extension that flattens PDF files by removing interactive elements like form fields, annotations, and other dynamic content while preserving the visual appearance.
 
